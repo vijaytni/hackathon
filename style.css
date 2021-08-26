@@ -1,0 +1,40 @@
+body {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 3rem;
+    background-color: white;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .container  {
+    
+    width: 45rem;
+    line-height: 0.5;
+    height: 20rem;
+    box-shadow: 10px 10px 10px 0 white;
+    border-radius: 5px;  
+    background: rgb(236, 219, 219); 
+  }
+
+   
+.displaycontentHeader {
+  font-size:   x-large;
+  font-family: 'Courier New', Courier, monospace;
+  color: darkslategrey;
+  background: rgb(236, 219, 219); 
+  width: 45rem;
+}
+.displaycontent {
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  color: darkslategrey;
+}
+.text {
+    margin-top: 2rem;
+}
+h2{
+  font-size: xx-large;
+  color: darkslategrey;
+}
+
+
